@@ -1,0 +1,1 @@
+This project predicts whether a student is at risk of poor academic performance using data analysis and machine learning techniques. It helps educators identify students who may need extra support and take preventive actions.
